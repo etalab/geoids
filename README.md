@@ -35,7 +35,7 @@ Où :
 
 * `code_pays` est le code pays à 2 caractères
 * `niveau_geographique` est le niveau traduit sans accents
-* `code` est le code standard INSEE pour cet endroit
+* `code` est le code standard pour cet endroit
 * `date_debut` est la date de création de cet endroit au [format étendu ISO 8601](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) `AAAA-MM-DD`
 
 
